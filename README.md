@@ -1,5 +1,12 @@
 # TC2008B Reto: Simluación de Movilidad Urbana con Multiagentes
 
+## Integrandes del equipo
+
+* Luis Ángel Guzmán Iribe - A01741757
+* Cesar Galvez - A01252177
+* Antonio López Chávez - A01741741
+* Sebastián Gálvez Trujillo - A01251884
+
 ## Descripción del reto a desarrollar.
 El reto consiste en la simulación de un evento de tráfico, donde automóviles circularán según las reglas de tránsito establecidas, con espacio entre carros, respeto a los semáforos, velocidad adecuada y sobre todo, no tener colisiones entre vehículos. Durante dicha simulación, se espera que se resuelva alguno de los siguientes puntos:
 * Controlar los espacios disponibles de un estacionamiento de forma inteligente, para evitar tener carros manejando en vueltas buscando uno.
