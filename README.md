@@ -2,10 +2,10 @@
 
 ## Integrandes del equipo
 
-* Luis Ángel Guzmán Iribe - A01741757
-* Cesar Galvez - A01252177
-* Antonio López Chávez - A01741741
-* Sebastián Gálvez Trujillo - A01251884
+* Luis Ángel Guzmán Iribe - A01741757 - Programador
+* Cesar Galvez - A01252177 - Diseñador y Documentación
+* Antonio López Chávez - A01741741 - Unity y Programador 
+* Sebastián Gálvez Trujillo - A01251884 - Unity y Documentación
 
 ## Descripción del reto a desarrollar.
 El reto consiste en la simulación de un evento de tráfico, donde automóviles circularán según las reglas de tránsito establecidas, con espacio entre carros, respeto a los semáforos, velocidad adecuada y sobre todo, no tener colisiones entre vehículos. Durante dicha simulación, se espera que se resuelva alguno de los siguientes puntos:
