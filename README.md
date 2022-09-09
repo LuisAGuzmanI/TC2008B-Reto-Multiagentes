@@ -8,7 +8,7 @@
 * Sebastián Gálvez Trujillo - A01251884 - Unity y Documentación
 
 ## Link al Zip del proyecto de Unity
-https://drive.google.com/file/d/1S7pgf8HHtj0m9dyd-aO_oWptOPZz_lHO/view?usp=sharing
+https://drive.google.com/file/d/1WHZgc7Xvp1VoIP8SzvHPYkZgy_mNBW5e/view?usp=sharing
 
 ## Instalaciones requeridas
 
