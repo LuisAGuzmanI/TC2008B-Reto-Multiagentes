@@ -54,6 +54,9 @@ Principal agente del modelo, sus acciones y estado están determinadas por los a
 #### Reglas de estado:
 * Su orientación (dx, dy y vertical) se define en el momento que se crea la instancia del agente, pero puede cambiar mediante el método change_direction().
 * Cuando se encuentra en medio de la intersección (sin vecinos de tipo terreno o semaforo) puede cambiar su orientación (a la del carril en el que se encuentra) con una probabilidad predeterminada, en este caso de 10%
+<center>
+<img src="./Diagrama Carro - Reto multiagentes.png" width=auto height=600 />
+</center>
 
 #### Reglas de acción:
 * Si la casilla de adelante (dependiendo de la orientación del agente) está vacía, y no hay ninguún semaforo en su vecindad con la misma orientación: **avanza**.
@@ -69,6 +72,9 @@ Agente sin acciones cuyo estado determina las acciones de los carros.
 * Si no hay ningún carro con la misma orientación (vertical u horizontal) en la vecindad inmediata del semaforo, su color cambia a **amarillo**
 * Si hay un carro en con la misma orientación en la vecindad inmediata del semáforo, y ninguno de los semáforos en una vecindad de un radio de 3 casillas con la misma orientación es verde, su color cambia a **Verde**
 * Si hay un carro en con la misma orientación en la vecindad inmediata del semáforo, y al menos uno de los semáforos en una vecindad de un radio de 3 casillas con la misma orientación es verde, su color cambia a **Rojo**
+<center>
+<img src="./Diagrama Semáforo - Reto multiagentes.png" width=auto height=600 />
+</center>
 
 ### Terreno
 
