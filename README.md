@@ -39,14 +39,14 @@ pip install pandas
 Este paso es opcional, pero recomendamos correr el código con la extensión ```Jupyter``` para la ejecución de la notebook con el código. Puede encontrar la guía de instalación en la [página oficial de Visual Studio Code](https://code.visualstudio.com/download).
 
 ## Problematica
-El reto consiste en proponer una solución para un problema de movilidad en México, en este caso, el control del flujo vehicular en una intersección. Nuestro sistema deberá se capaz de simular y controlar el movimiento de los vehiculos que crucen por una intersección de manera que reduzca el tiempo que de otro modo tardarían en ciruclar los autos con un semaforo tradicional con temporizador.
+El reto consiste en proponer una solución para un problema de movilidad en México, en este caso, el control del flujo vehicular en una intersección. Nuestro sistema deberá ser capaz de simular y controlar el movimiento de los vehiculos que crucen por una intersección de manera que reduzca el tiempo que tardarían en ciruclar los autos con un semaforo tradicional con temporizador.
 
 ## Propuesta de solución
 La coordinación del tráfico está bajo el control de los semáforos. Los semáforos detectan cuando un vehiculo está a punto de entrar al cruce para detener o permitir su movimiento si ya hay otro carro en el cruce.
 
 Los 4 semaforos de la intersección estarían interconectados para coordinarse de manera eficiente y así permitir a los autos pasar sin riesgo de chocar con otro auto que viene en otro carril.
 
-Este modelo consta de una intersección de dos calles de doble sentido representada como una cuadricula discreta donde los carros deben esperar a la luz indicada del semaforo para poder avanzar. A su vez, lo carros tienen una probabilidad predeterminada (en este caso de 10%) de dar una vuelta a la derecha o izquierda dependiendo del sentido del carril en en el que se encuentren actualmente.
+Este modelo consta de una intersección de dos calles de doble sentido representada como una cuadricula discreta donde los carros deben esperar a la luz indicada del semaforo para poder avanzar. A su vez, lo carros tienen una probabilidad predeterminada (en este caso de 5%) de dar una vuelta a la derecha o izquierda dependiendo del sentido del carril en en el que se encuentren actualmente.
 
 ### Agentes
 
