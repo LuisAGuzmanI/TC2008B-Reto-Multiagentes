@@ -82,3 +82,13 @@ Agente sin acciones cuyo estado determina las acciones de los carros.
 ### Terreno
 
 Agente sin estado ni acciones que sirve para delimitar la calle. Representa el pasto y demás estructuras que rodean la intersección
+
+### Créditos para autores de assets usados en el proyecto
+* Low Poly Tree Pack [Árboles]: Broken Vector (support@brokenvector.com)
+* Low Poly Park [Assets para parque]: Broken Vector (support@brokenvector.com)
+* Low Poly Road Pack [Assets para calles]: Broken Vector (support@brokenvector.com)
+* Low Poly Brick House [Assets de casas]: Broken Vector (support@brokenvector.com)
+* Free Stylized Skybox [Cielos]: Yuki2022 (gamemakeryuki@outlook.com)
+* Tarbo - City 'Traffic Lights' Pack [Semáforos]: Tarbo studio (tarbostudio@gmail.com)
+* JSON .NET For Unity [Funciones para 'parsear' JSONs]: parentElement, LLC (nebraskadev@gmail.com)
+* Simple Cars Pack [Assets de autos]: MyxerMan (m-anton-a@mail.ru)
